@@ -1,4 +1,4 @@
-sclass Solution:
+class Solution:
     def frequencySort(self, nums: List[int]) -> List[int]:
         count = {}
         for num in nums:
